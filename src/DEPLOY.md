@@ -6,5 +6,4 @@ Aplicação publicada com sucesso no Netlify.
 
 Data do deploy: 13/10/2025
 
----
-Este commit documenta a implantação do projeto no Netlify conforme solicitado na atividade.
+
